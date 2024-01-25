@@ -4,6 +4,6 @@ this is my first repository
 [My link](https://github.com/ViFeduk)
 ### What will I would learn?
 * Branch,ветка,wwww
-* Push
+* Push sdf
 * Pull/fetch
 * Merge
