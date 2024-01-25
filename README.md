@@ -5,5 +5,5 @@ this is my first repository
 ### What will I would learn?
 * Branch,ветка,wwww
 * Push sdf
-* Pull/fetch
+* Pull/fetchfds
 * Merge
