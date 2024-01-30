@@ -7,3 +7,4 @@ this is my first repository
 * Push sdf
 * Pull/fetchfds
 * Merge
+* differences
